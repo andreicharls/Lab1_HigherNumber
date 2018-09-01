@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1_HigherNumber</string>
+
+    <string name="firstNum">Enter first number:</string>
+    <string name="secondNum">Enter second number:</string>
+    <string name="higher_number">Higher Number</string>
+    <string name="compare">Compare</string>
+</resources>
